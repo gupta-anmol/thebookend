@@ -1,6 +1,6 @@
 # thebookend
 
-By [Anmol](https://github.com/6point022) and [Sandeep](https://github.com/itissandeep98)
+By [Anmol Gupta](https://github.com/gupta-anmol) and [Sandeep Kumar Singh](https://github.com/itissandeep98)
 
 
 ## Backend
